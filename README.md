@@ -1,2 +1,2 @@
-# Google-Nexus-5
-Podpora pto android vyvojare
+# Google-Nexus 5
+Podpora pto android
